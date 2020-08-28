@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 # KG4
 first repository
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KxGitHub4)](https://github.com/anuraghazra/github-readme-stats)
 =======
 # KxGitHub
 >>>>>>> 26ca2e016444f0e13060936e93db6af9fcf178b3
