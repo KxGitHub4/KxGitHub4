@@ -1,2 +1,2 @@
-vmess=wsw.yuel.buzz:443, method=none, password=ae6521ce-d978-4f28-8fa5-c5e1f79518b2, obfs=wss, obfs-uri=/ray, fast-open=false, udp-relay=false, tag=Los.Angeles
+vmess=wsw.yuel.buzz:443, method=auto, password=f7c2a9b9-ba66-4cc4-bc8d-b228f8345043, obfs=wss, obfs-uri=/ray, fast-open=false, udp-relay=false, tag=Los.Angeles
 trojan=wsw.ylue.xyz:443, password=asdf-2322-WDHGF, over-tls=true, tls-verifiction=true, fast-open=false, udp-relay=false, tag=Cloudcone
