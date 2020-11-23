@@ -12,6 +12,17 @@ proxies:
     password: Trojan：keysl201413
     sni: wsw.ylue.xyz
     skip-cert-verify: false
+  - name: 🇺🇲 Anynode
+    type: vmess
+    server: wsw.yuel.buzz
+    port: 443
+    uuid: b831381d-6324-4d53-ad4f-8cda48b30811
+    alterId: 64
+    cipher: auto
+    tls: true 
+    network: ws
+    ws-path: /ray
+    ws-headers: wsw.yuel.buzz
 proxy-groups:
   - name: 🚀 节点选择
     type: select
