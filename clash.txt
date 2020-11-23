@@ -30,12 +30,14 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 🇺🇲 USA
+      - 🇺🇲 Anynode
   - name: ♻️ 自动选择
     type: url-test
     url: https://www.google.com/
     interval: 300
     proxies:
       - 🇺🇲 USA
+      - 🇺🇲 Anynode
   - name: 🌍 国外媒体
     type: select
     proxies:
