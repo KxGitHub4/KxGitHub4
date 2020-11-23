@@ -6,12 +6,12 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - name: 🇺🇲 USA
+    type: trojan
     server: wsw.ylue.xyz
     port: 443
-    type: trojan
     password: Trojan：keysl201413
     sni: wsw.ylue.xyz
-    skip-cert-verify: false}
+    skip-cert-verify: false
 proxy-groups:
   - name: 🚀 节点选择
     type: select
