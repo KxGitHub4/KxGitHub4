@@ -1,2 +1,4 @@
-vmess=wsw.yuel.buzz:443, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, obfs=wss, obfs-uri=/websockety, fast-open=false, udp-relay=false, tag=Los.Angeles
+vmess=wsw.yuel.buzz:443, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, obfs=wss, obfs-uri=/ray, fast-open=false, udp-relay=false, tag=Los.Angeles
+vmess=wsw.yuel.buzz:443, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, obfs=wss, obfs-host=wsw.yuel.buzz, obfs-uri=/ray, tls13=true, fast-open=false, udp-relay=false, tag=AnyNode, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Global.png
 trojan=wsw.ylue.xyz:443, password=Trojan:keysl201413, over-tls=true, tls-verifiction=true, fast-open=false, udp-relay=false, tag=Cloudcone
+trojan=wsw.ylue.xyz:443, password=Trojan:keysl201413, over-tls=true, tls-host=wsw.ylue.xyz:443, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=USA
