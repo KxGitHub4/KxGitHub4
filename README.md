@@ -2,7 +2,7 @@
 ### 这只是用于学习的目的 非常感谢贡献者<strong>[nzw](https://fanyi.baidu.com/?aldtype=16047#zh/en/)</strong>
 * [这是一个跳转测试](#跳转测试)
 <details>
-    <sumary>This is head</sumary>
+    <summary>This is head</summary>
     <p>这里才是真的消息</p>
 </details>
 
