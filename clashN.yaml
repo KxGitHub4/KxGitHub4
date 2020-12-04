@@ -28,9 +28,9 @@ proxy-groups:
     type: select
     proxies:
       - ♻️ 自动选择
+      - DIRECT
       - AnyNode
       - Cloudcone
-      - DIRECT
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -44,6 +44,7 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - Cloudcone
   - name: 📲 电报信息
     type: select
     proxies:
