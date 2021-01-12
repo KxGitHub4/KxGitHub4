@@ -2,5 +2,5 @@ vmess=wsw.yuel.buzz:443, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30
 trojan=wsw.ylue.xyz:443, password=Trojan:keysl201413, over-tls=true, tls-host=wsw.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Los.Angeles
 trojan=wvw.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=wvw.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Seattle
 trojan=waw.ylue.xyz:443, password=waylue.xyz, over-tls=true, tls-host=waw.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Africa
-trojan=zjx2.cu.xlddns.xyz:10024, password=wwwyluexyz, over-tls=true, tls-host=www.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Japna
+trojan=zjx2.cu.xlddns.xyz:10024, password=wwwyluexyz, over-tls=true, tls-host=www.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Japan
 trojan=www.ylue.xyz:443, password=wwwyluexyz, over-tls=true, tls-host=www.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Osaka
