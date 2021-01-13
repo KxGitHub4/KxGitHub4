@@ -5,4 +5,5 @@ trojan=waw.ylue.xyz:443, password=waylue.xyz, over-tls=true, tls-host=waw.ylue.x
 trojan=zjx2.cu.xlddns.xyz:10024, password=wwwyluexyz, over-tls=true, tls-host=www.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Japan
 trojan=www.ylue.xyz:443, password=wwwyluexyz, over-tls=true, tls-host=www.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Osaka
 trojan=zjx2.cu.xlddns.xyz:10888, password=Trojan:keysl201413, over-tls=true, tls-host=just.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Russia
-trojan=zjx2.cu.xlddns.xyz:10555, password=Trojan:keysl201413, over-tls=true, tls-host=wnw.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=NLD
+trojan=zjx2.cu.xlddns.xyz:10777, password=Trojan:keysl201413, over-tls=true, tls-host=sel.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Seal
+trojan=sel.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=sel.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=D-Seal
