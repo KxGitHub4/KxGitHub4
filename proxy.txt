@@ -10,3 +10,4 @@ trojan=sel.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=s
 trojan=byt.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=byt.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Bytes
 trojan=58.32.9.242:60606, password=Trojan:keysl201413, over-tls=true, tls-host=byt.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=CN2Bytes
 trojan=st.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=st.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=TW
+trojan=daily.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=daily.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Tokyo
