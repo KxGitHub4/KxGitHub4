@@ -11,3 +11,5 @@ trojan=byt.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=b
 trojan=58.32.9.242:60606, password=Trojan:keysl201413, over-tls=true, tls-host=byt.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=CN2Bytes
 trojan=st.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=st.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=TW
 trojan=daily.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=daily.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Tokyo
+vmess=58.32.9.242:60603, method=auto, password=b831381d-6324-4d53-ad4f-8cda48b30811, udp-relay=false, tag=Hinet CN2
+vmess=210.71.213.200:64033, method=auto, password=b831381d-6324-4d53-ad4f-8cda48b30811, udp-relay=false, tag=Hinet
