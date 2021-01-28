@@ -1,9 +1,8 @@
 trojan=wsw.ylue.xyz:443, password=Trojan:keysl201413, over-tls=true, tls-host=wsw.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Los.Angeles
-trojan=wvw.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=wvw.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Seattle
 trojan=zjx2.cu.xlddns.xyz:10222, password=wwwyluexyz, over-tls=true, tls-host=www.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Japan
 trojan=www.ylue.xyz:443, password=wwwyluexyz, over-tls=true, tls-host=www.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Osaka
 trojan=just.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=just.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Russia
-trojan=sel.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=sel.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Seal
+trojan=sel.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=sel.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Seattle
 trojan=byt.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=byt.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Bytes
 trojan=st.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=st.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=TW
 trojan=daily.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=daily.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Tokyo
