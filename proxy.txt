@@ -1,11 +1,11 @@
 trojan=cc.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=cc.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Los.Angeles
-trojan=7726.ddns.inli.cloud:20204, password=wwwyluexyz, over-tls=true, tls-host=osk.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=SHOsaka
+trojan=2211.ddns.inli.cloud:20200, password=wwwyluexyz, over-tls=true, tls-host=osk.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=AhOsaka
 trojan=sel.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=sel.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Seattle
 trojan=byt.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=byt.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Bytes
 trojan=st.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=st.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=TW
 trojan=cn2.alblog.cn:60601, password=Trojan:keysl201413, over-tls=true, tls-host=st.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=TWCN2
-trojan=daily.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=daily.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Tokyo
+trojan=2211.ddns.inli.cloud:20202, password=Trojan:keysl201413, over-tls=true, tls-host=daily.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Tokyo
 vmess=cn2.alblog.cn:60603, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, tls13=false, fast-open=false, udp-relay=false, tag=Hinet CN2
 vmess=120.232.43.124:20200, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, tls13=false, fast-open=false, udp-relay=false, tag=jmHinet
-vmess=7726.ddns.inli.cloud:12442, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, tls13=false, fast-open=false, udp-relay=false, tag=SHinet
+vmess=2211.ddns.inli.cloud:20204, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, tls13=false, fast-open=false, udp-relay=false, tag=AuHinet
 
