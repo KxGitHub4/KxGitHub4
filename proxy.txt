@@ -1,5 +1,5 @@
 trojan=cc.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=cc.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Los.Angeles
-trojan=7726.ddns.inli.cloude:20204, password=wwwyluexyz, over-tls=true, tls-host=osk.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=SHOsaka
+trojan=7726.ddns.inli.cloud:20204, password=wwwyluexyz, over-tls=true, tls-host=osk.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=SHOsaka
 trojan=sel.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=sel.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Seattle
 trojan=byt.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=byt.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Bytes
 trojan=st.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=st.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=TW
