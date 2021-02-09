@@ -1,11 +1,11 @@
-trojan=wsw.ylue.xyz:443, password=Trojan:keysl201413, over-tls=true, tls-host=wsw.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Los.Angeles
-trojan=www.ylue.xyz:443, password=wwwyluexyz, over-tls=true, tls-host=www.ylue.xyz, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Osaka
-trojan=just.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=just.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Russia
+trojan=cc.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=cc.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Los.Angeles
+trojan=osk.suni.live:443, password=wwwyluexyz, over-tls=true, tls-host=osk.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Osaka
 trojan=sel.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=sel.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Seattle
 trojan=byt.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=byt.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Bytes
 trojan=st.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=st.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=TW
 trojan=58.32.9.242:60605, password=Trojan:keysl201413, over-tls=true, tls-host=st.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=TWCN2
 trojan=daily.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=daily.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Tokyo
 vmess=58.32.9.242:60604, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, tls13=false, fast-open=false, udp-relay=false, tag=Hinet CN2
-vmess=210.71.213.200:2442, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, tls13=false, fast-open=false, udp-relay=false, tag=Hinet
 vmess=120.232.43.124:20200, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, tls13=false, fast-open=false, udp-relay=false, tag=jmHinet
+vmess=7726.ddns.inli.cloud:12442, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, tls13=false, fast-open=false, udp-relay=false, tag=SHinet
+
