@@ -2,7 +2,7 @@ trojan=cc.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=cc
 trojan=osk.suni.live:443, password=wwwyluexyz, over-tls=true, tls-host=osk.suni.live, tls-verification=true, tls13=true, fast-open=false, udp-relay=false, tag=Osaka
 trojan=sel.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=sel.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Seattle
 trojan=byt.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=byt.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Bytes
-trojan=hkb.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=hkb.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=BGPHK
+trojan=hkb.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=hkb.suni.live, tls-verification=true, tls13=true, fast-open=false, udp-relay=false, tag=BGPHK
 trojan=hkc.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=hkc.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=QEXWHK
 vmess=cn2.alblog.cn:60603, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, tls13=false, fast-open=false, udp-relay=false, tag=HGCCN2
 vmess=zjx2.cu.xlddns.xyz:12020, method=none, password=b831381d-6324-4d53-ad4f-8cda48b30811, tls13=false, fast-open=false, udp-relay=false, tag=XLHinet
