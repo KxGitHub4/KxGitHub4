@@ -1,5 +1,6 @@
 trojan=cc.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=cc.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Los.Angeles
 trojan=osk.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=osk.suni.live, tls-verification=true, tls13=true, fast-open=false, udp-relay=false, tag=Osaka
+trojan=zjx2.cu.xlddns.xyz:12021, password=Trojan:keysl201413, over-tls=true, tls-host=osk.suni.live, tls-verification=true, tls13=true, fast-open=false, udp-relay=false, tag=Osaka
 trojan=sel.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=sel.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Seattle
 trojan=byt.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=byt.suni.live, tls-verification=true, tls13=false, fast-open=false, udp-relay=false, tag=Bytes
 trojan=hkb.suni.live:443, password=Trojan:keysl201413, over-tls=true, tls-host=hkb.suni.live, tls-verification=true, tls13=true, fast-open=false, udp-relay=false, tag=BGPHK
